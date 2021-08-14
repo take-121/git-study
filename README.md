@@ -18,5 +18,11 @@ git commit -m
 git remote -v
 
 # リモートのマスターブランチへpush
-git push origin
+git push
+```
+
+### 3. pullreqest
+```
+# 新しいbranchの作成
+git branch <branch名>
 ```
