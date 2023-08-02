@@ -2,7 +2,7 @@
 echo "Hello World"
 echo "branch-b"
 echo "branch-c add"
-echo "master commit"
+echo "master commit hc2"
 
 # commit1
 # commit2
